@@ -5,8 +5,8 @@
 ![Daniil Jave's Wakatime Tracking](https://github-readme-stats.vercel.app/api/wakatime?username=javeoff&layout=compact)
 
 ## Facts
-- I am 18, have been learning programming over 2 years
-- I spend coding 40+ hours a week
+- I am 18, have been learning programming over 3 years
+- I spend coding 70+ hours a week
 - I learn to healthy lifestyle to stay productive
 - I am working at the Maximaster inc.
 - I love Programming and very like growing experience in that.
@@ -18,14 +18,15 @@
 - Database: MySQL, PostgreSQL, MongoDB
 
 ## Carrier Line
-1. (_2020_) - Work in freelance (in a frontend and design)
-2. (_November-December 2020_) - Школа Солдатов Будущего – Government military course platform for school pupils
-3. (_January-February 2021_) - usluger.com – P2P Transferplace system
+5. (_January 2021 -> [February 2021]_) - Bayestech - Football matches analytic system
 4. (_March 2021 -> [currently]_) - Work at the Maximaster
+3. (non a job) (_January-February 2021_) - usluger.com – P2P Transferplace system
+2. (non a job) (_November-December 2020_) - Школа Солдатов Будущего – Government military course platform for school pupils
+1. (_2020_) - Work in freelance (in a frontend and design)
 
 ## Skills
 - Prefer immutable programming implementation
-- Actively using **BASH**, **ZSH**
+- Actively using **ZSH**
 - Actively using SOLID, creational patterns
 - Configuring **Nginx**, **Apache**
 - Configuring **Webpack**, **ESlint**, **Babel**, **Jest**
