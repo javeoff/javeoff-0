@@ -18,7 +18,8 @@
 - Database: MySQL, PostgreSQL, MongoDB
 
 ## Carrier Line
-5. (_January 2021 -> [February 2021]_) - Bayestech - Football matches analytic system
+6. (_January 2022 -> [February 2022]_) - Bayestech - Football matches analytic system
+5. (_December 2020 -> January 2022_) - TGElectro - ECommerce service for selling electronics
 4. (_March 2021 -> [currently]_) - Work at the Maximaster
 3. (non a job) (_January-February 2021_) - usluger.com – P2P Transferplace system
 2. (non a job) (_November-December 2020_) - Школа Солдатов Будущего – Government military course platform for school pupils
@@ -26,7 +27,7 @@
 
 ## Skills
 - Prefer immutable programming implementation
-- Actively using **ZSH**
+- Actively using **ZSH** **NVIM**
 - Actively using SOLID, creational patterns
 - Configuring **Nginx**, **Apache**
 - Configuring **Webpack**, **ESlint**, **Babel**, **Jest**
@@ -41,6 +42,8 @@
 
 | Project Name | Type | Description | Technologies |
 |---|---|---|---|
+| Bayestech | 💼 | Football matches analytic system for football commands | webpack, React typescript, redux-saga, redux-toolkit, thunk, babel, Sass, chart.js |
+| [TGElectro](https://github.com/javeoff/tgelectro) | 💰 | ECommerce service for selling electronics online with delivery | webpack, React typescript, Next, Nest, Redux-toolkit |
 | Орион | 💼 | CRM system for control management and business processes | React Typescript, Redux-toolkit, Storybook, Jest, Next, React Testing Library, Selenium, Axios, Nestjs, Lodash, React-use, Styled-components, Docker  |
 | [JobInTouch](https://github.com/javeoff/jobin) | 💼 | Freelance exchange system for customers and performer | React Typescript, Nextjs, Next-redux-wrapper, Redux, GraphQL, Reactstrap (bootstrap)  |
 | [ФК Зенит](https://tickets.fc-zenit.ru/) | 💼 | Online system, that selling football tickets to own matches | Typescript-Javascript, React, React-router, Redux, Redux-thunk, Redux-saga, BEM-CSS |
@@ -53,6 +56,7 @@
 ## Boilerplates & Education
 | Project Name | Date | Description | Technologies |
 |---|---|---|---|
+| [tglegard](https://github.com/javeoff/tglegard) | 
 | [Nest-Next Boilerplate](https://github.com/javeoff/nest-next-boilerplate) | September 2021 | Typescript Boilerplate project for a boost starting | (Duck) redux-toolkit, Nest, Next, Tsconfig-paths, Dotenv, Eslint, Babel, Prettier, Rxjs, Typeorm, Postgres
 | [VKMiniApp Boilerplate](https://github.com/javeoff/vkminiapp-boilerplate) | June 2021 | VKMiniApp Boilerplate project for a boost starting | Typescript, Webpack React, Eruda, Redux, Eslint, Babel, Type-fest |
 | [Webpack-React Boilerplate](https://github.com/javeoff/webpack-react-boilerplate) | June 2021 | Javascript Boilerplate project for a boost starting | Native Webpack, Typescript, React, Dotenv, Babel |
