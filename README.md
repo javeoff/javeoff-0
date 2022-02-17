@@ -6,8 +6,8 @@
 
 ## Facts
 - I am 18, have been learning programming over 3 years
-- I spend coding 70+ hours a week
-- I learn to healthy lifestyle to stay productive
+- I spend coding 40-70 hours a week
+- I learn blockchain and other decentralized technologies
 - I am working at the Maximaster inc.
 - I love Programming and very like growing experience in that.
 
@@ -19,10 +19,10 @@
 
 ## Carrier Line
 6. (_January 2022 -> [February 2022]_) - Bayestech - Football matches analytic system
-5. (_December 2020 -> January 2022_) - TGElectro - ECommerce service for selling electronics
+5. (_December 2021 -> January 2022_) - TGElectro - ECommerce service for selling electronics
 4. (_March 2021 -> [currently]_) - Work at the Maximaster
-3. (non a job) (_January-February 2021_) - usluger.com – P2P Transferplace system
-2. (non a job) (_November-December 2020_) - Школа Солдатов Будущего – Government military course platform for school pupils
+3. (_2021_) - usluger.com – P2P Transferplace system
+2. (_2020_) - Школа Солдатов Будущего – Government military course platform for school pupils
 1. (_2020_) - Work in freelance (in a frontend and design)
 
 ## Skills
@@ -34,9 +34,6 @@
 - Work with Git (**VCS**) abstractions
 - Work with **Docker**, configuring **Dockerfile**
 - Learn [English B1->B2](https://github.com/javeoff/english-knowledge) (intermediate)
-
-## My Fullstack Senior RoadMap
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=javeoff&repo=fss-roadmap)](https://github.com/javeoff/fss-roadmap)
 
 ## Projects
 
@@ -56,15 +53,19 @@
 ## Boilerplates & Education
 | Project Name | Date | Description | Technologies |
 |---|---|---|---|
-| [tglegard](https://github.com/javeoff/tglegard) | 
+| [Smart Search Engine](https://github.com/javeoff/smart-search) | January 2022 | UX-Flexible smart search service with scrapping from multiple search engines | Webpack, React, typescript, Next, Lodash, Styled-components |
 | [Nest-Next Boilerplate](https://github.com/javeoff/nest-next-boilerplate) | September 2021 | Typescript Boilerplate project for a boost starting | (Duck) redux-toolkit, Nest, Next, Tsconfig-paths, Dotenv, Eslint, Babel, Prettier, Rxjs, Typeorm, Postgres
 | [VKMiniApp Boilerplate](https://github.com/javeoff/vkminiapp-boilerplate) | June 2021 | VKMiniApp Boilerplate project for a boost starting | Typescript, Webpack React, Eruda, Redux, Eslint, Babel, Type-fest |
 | [Webpack-React Boilerplate](https://github.com/javeoff/webpack-react-boilerplate) | June 2021 | Javascript Boilerplate project for a boost starting | Native Webpack, Typescript, React, Dotenv, Babel |
+| [Slaves VKMiniApp](https://github.com/javeoff/slaves-bot) | April 2021 | Typescript, React, react-scripts, Axios, Styled-components |
 | [React-Saga Education](https://github.com/javeoff/react-saga) | February 2021 | Javascript Education Redux in React Project | Javascript, React, Redux, Redux-saga, Redux-thunk, Jest |
 | [Redux Education](https://github.com/javeoff/redux-basic) | February 2021 | Javascript Education Redux Project | Webpack, Javascript, Redux |
 | [ImageLoader Education](https://github.com/javeoff/image-loader) | February 2021 | Javascript Education Firebase Project | Parcel, Javascript, Firebase, CSS |
 | [Angular Education](https://github.com/javeoff/angular-blog) | February 2021 | Typescript Education Angular Project | Angular, Typescript, Angular-router, Angular-forms, Angular-animations |  
 | [Nest Education](https://github.com/javeoff/nest-monitoring) | January 2020 | Typescript Education Project | Typescript, Nest, Prettier, Knex, MySQL, Jest, RXJS |
+
+## My Senior Engineer Knowledge Map
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=javeoff&repo=learn-docs)](https://github.com/javeoff/learn-docs)
 
 ## Contacts
 [<img align="left" width="22px" alt="javeoff | Telegram" src="https://simpleicons.org/icons/telegram.svg" />](https://t.me/javeoff)
