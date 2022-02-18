@@ -1,9 +1,5 @@
 # ✨ Hello, I am Daniil Jave!
 
-![Daniil Jave's GitHub Tracking](https://github-readme-stats.vercel.app/api?username=javeoff)
-
-![Daniil Jave's Wakatime Tracking](https://github-readme-stats.vercel.app/api/wakatime?username=javeoff&layout=compact)
-
 ## Facts
 - I am 18, have been learning programming over 3 years
 - I spend coding 40-70 hours a week
