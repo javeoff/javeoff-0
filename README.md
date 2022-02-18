@@ -40,7 +40,7 @@
 | Орион | 💼 | CRM system for control management and business processes | React Typescript, Redux-toolkit, Storybook, Jest, Next, React Testing Library, Selenium, Axios, Nestjs, Lodash, React-use, Styled-components, Docker  |
 | [JobInTouch](https://github.com/javeoff/jobin) | 💼 | Freelance exchange system for customers and performer | React Typescript, Nextjs, Next-redux-wrapper, Redux, GraphQL, Reactstrap (bootstrap)  |
 | [ФК Зенит](https://tickets.fc-zenit.ru/) | 💼 | Online system, that selling football tickets to own matches | Typescript-Javascript, React, React-router, Redux, Redux-thunk, Redux-saga, BEM-CSS |
-| QR Restaurant Menu | 💰 | Online menu for restaurants with synchronizing waiters and cooks | React Typescript, BFF, Nest.js, Socket.io, Redis, Winston, PostgreSQL |
+| QR Restaurant Menu | 💰 | Online menu for restaurants with synchronizing waiters and cooks | React Typescript, BFF pattern, Nest.js, Socket.io, Redis, Winston, PostgreSQL |
 | [Услугер](https://github.com/javeoff/usluger) | 💰 | Service placement system, online notice board | Typescript, Angular, CSS, RxJS, Node.js, Express, Websocket, Canvas, Threejs |
 | Школа Солдатов Будущего | 💰 | Government military course platform for school pupils | Javascript, React, React-router, CSS, Node.js, Express, MySQL |
 | [VKMiniApp Slaves Game](https://github.com/javeoff/slaves-bot) | ✅ | Simulator of virtual Slaves and Masters economic | Typescript, React, redux-toolkit, Styled-components, Axios |
@@ -53,7 +53,7 @@
 | [Nest-Next Boilerplate](https://github.com/javeoff/nest-next-boilerplate) | September 2021 | Typescript Boilerplate project for a boost starting | (Duck) redux-toolkit, Nest, Next, Tsconfig-paths, Dotenv, Eslint, Babel, Prettier, Rxjs, Typeorm, Postgres
 | [VKMiniApp Boilerplate](https://github.com/javeoff/vkminiapp-boilerplate) | June 2021 | VKMiniApp Boilerplate project for a boost starting | Typescript, Webpack React, Eruda, Redux, Eslint, Babel, Type-fest |
 | [Webpack-React Boilerplate](https://github.com/javeoff/webpack-react-boilerplate) | June 2021 | Javascript Boilerplate project for a boost starting | Native Webpack, Typescript, React, Dotenv, Babel |
-| [Slaves VKMiniApp](https://github.com/javeoff/slaves-bot) | April 2021 | Typescript, React, react-scripts, Axios, Styled-components |
+| [Slaves VKMiniApp](https://github.com/javeoff/slaves-bot) | April 2021 | Economic `vk.com` Game with global TOP and internal exchange system | Typescript, React, react-scripts, Axios, Styled-components |
 | [React-Saga Education](https://github.com/javeoff/react-saga) | February 2021 | Javascript Education Redux in React Project | Javascript, React, Redux, Redux-saga, Redux-thunk, Jest |
 | [Redux Education](https://github.com/javeoff/redux-basic) | February 2021 | Javascript Education Redux Project | Webpack, Javascript, Redux |
 | [ImageLoader Education](https://github.com/javeoff/image-loader) | February 2021 | Javascript Education Firebase Project | Parcel, Javascript, Firebase, CSS |
