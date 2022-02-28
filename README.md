@@ -23,7 +23,7 @@
 
 ## Skills
 - Prefer immutable programming implementation
-- Actively using **ZSH** **NVIM**
+- Actively using **ZSH** **NVIM** ([My dotfiles](https://github.com/javeoff/dotfiles))
 - Actively using SOLID, creational patterns
 - Configuring **Nginx**, **Apache**
 - Configuring **Webpack**, **ESlint**, **Babel**, **Jest**
@@ -35,11 +35,12 @@
 
 | Project Name | Type | Description | Technologies |
 |---|---|---|---|
+| [ФК Зенит](https://tickets.fc-zenit.ru/) | 💼 | Online system, that selling football tickets to own matches | Typescript-Javascript, React, React-router, Redux, Redux-thunk, Redux-saga, BEM-CSS |
 | Bayestech | 💼 | Football matches analytic system for football commands | webpack, React typescript, redux-saga, redux-toolkit, thunk, babel, Sass, chart.js |
 | [TGElectro](https://github.com/javeoff/tgelectro) | 💰 | ECommerce service for selling electronics online with delivery | webpack, React typescript, Next, Nest, Redux-toolkit |
 | Орион | 💼 | CRM system for control management and business processes | React Typescript, Redux-toolkit, Storybook, Jest, Next, React Testing Library, Selenium, Axios, Nestjs, Lodash, React-use, Styled-components, Docker  |
 | [JobInTouch](https://github.com/javeoff/jobin) | 💼 | Freelance exchange system for customers and performer | React Typescript, Nextjs, Next-redux-wrapper, Redux, GraphQL, Reactstrap (bootstrap)  |
-| [ФК Зенит](https://tickets.fc-zenit.ru/) | 💼 | Online system, that selling football tickets to own matches | Typescript-Javascript, React, React-router, Redux, Redux-thunk, Redux-saga, BEM-CSS |
+| [AAA-Agency](https://github.com/javeoff/aaa-agency) | 💰| Digital format agency to organize creating content processes | React typescript, styled-components |
 | QR Restaurant Menu | 💰 | Online menu for restaurants with synchronizing waiters and cooks | React Typescript, BFF pattern, Nest.js, Socket.io, Redis, Winston, PostgreSQL |
 | [Услугер](https://github.com/javeoff/usluger) | 💰 | Service placement system, online notice board | Typescript, Angular, CSS, RxJS, Node.js, Express, Websocket, Canvas, Threejs |
 | Школа Солдатов Будущего | 💰 | Government military course platform for school pupils | Javascript, React, React-router, CSS, Node.js, Express, MySQL |
