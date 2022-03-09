@@ -9,7 +9,7 @@
 
 ## Stack
 - Language: Javascript, Typescript
-- Frontend: React, Redux, Redux-saga, Next, React Native, Angular
+- Frontend: React, Redux, Redux-thunk, Redux-saga, Next, React Native, Angular
 - Backend: Node.js, Express, Fastify, Nest, Rxjs, RabbitMQ, TypeORM, Swagger, Redis
 - Database: MySQL, PostgreSQL, MongoDB
 
