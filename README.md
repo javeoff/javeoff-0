@@ -14,9 +14,9 @@
 - Database: MySQL, PostgreSQL, MongoDB
 
 ## Carrier Line
-6. (_January 2022 -> [March 2022]_) - Bayestech - Football matches analytic system
+6. (_January 2022 -> [currently]_) - Bayestech - Football matches analytic system
 5. (_December 2021 -> January 2022_) - TGElectro - ECommerce service for selling electronics
-4. (_March 2021 -> [currently]_) - Work at the Maximaster
+4. (_March 2021 -> June 2022_) - Work at the Maximaster
 3. (_2021_) - usluger.com – P2P Transferplace system
 2. (_2020_) - Школа Солдатов Будущего – Government military course platform for school pupils
 1. (_2020_) - Work in freelance (in a frontend and design)
