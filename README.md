@@ -4,7 +4,6 @@
 - I am 18, have been learning programming over 3 years
 - I spend coding 40-70 hours a week
 - I learn blockchain and other decentralized technologies
-- I am working at the Maximaster inc.
 - I love Programming and very like growing experience in that.
 
 ## Stack
