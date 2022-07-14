@@ -1,22 +1,24 @@
 # ✨ Hello, I am Daniil Jave!
 
 ## Facts
-- I am 18, have been learning programming over 3 years
-- I spend coding 40-70 hours a week
-- I learn blockchain and other decentralized technologies
+- I am 18, have been deep learning programming over 3 years
+- I started interest coding since 13 years old
+- I spend coding 50-60 hours a week
+- I learn blockchain and psychology
 - I love Programming and very like growing experience in that.
 
 ## Stack
 - Language: Javascript, Typescript
-- Frontend: React, Redux, Redux-thunk, Redux-saga, Next, React Native, Angular
+- Frontend: React, Redux, Redux-thunk, Redux-saga, Next, React Native, Angular*
 - Backend: Node.js, Express, Fastify, Nest, Rxjs, RabbitMQ, TypeORM, Swagger, Redis
 - Database: MySQL, PostgreSQL, MongoDB
 
 ## Carrier Line
-6. (_January 2022 -> [currently]_) - Bayestech - Football matches analytic system
+7. (_July 2022 -> Currently_) - Maxima Telecom - Commercialization of public wireless networks
+6. (_January 2022 -> April 2022_) - Bayestech - Football matches analytic system
 5. (_December 2021 -> January 2022_) - TGElectro - ECommerce service for selling electronics
 4. (_March 2021 -> June 2022_) - Work at the Maximaster
-3. (_2021_) - usluger.com – P2P Transferplace system
+3. (_2021_) - usluger.com* – P2P Transferplace system
 2. (_2020_) - Школа Солдатов Будущего – Government military course platform for school pupils
 1. (_2020_) - Work in freelance (in a frontend and design)
 
@@ -41,7 +43,7 @@
 | [JobInTouch](https://github.com/javeoff/jobin) | 💼 | Freelance exchange system for customers and performer | React Typescript, Nextjs, Next-redux-wrapper, Redux, GraphQL, Reactstrap (bootstrap)  |
 | [AAA-Agency](https://github.com/javeoff/aaa-agency) | 💰| Digital format agency to organize creating content processes | React typescript, styled-components |
 | QR Restaurant Menu | 💰 | Online menu for restaurants with synchronizing waiters and cooks | React Typescript, BFF pattern, Nest.js, Socket.io, Redis, Winston, PostgreSQL |
-| [Услугер](https://github.com/javeoff/usluger) | 💰 | Service placement system, online notice board | Typescript, Angular, CSS, RxJS, Node.js, Express, Websocket, Canvas, Threejs |
+| [Услугер*](https://github.com/javeoff/usluger) | 💰 | Service placement system, online notice board | Typescript, Angular, CSS, RxJS, Node.js, Express, Websocket, Canvas, Threejs |
 | Школа Солдатов Будущего | 💰 | Government military course platform for school pupils | Javascript, React, React-router, CSS, Node.js, Express, MySQL |
 | [VKMiniApp Slaves Game](https://github.com/javeoff/slaves-bot) | ✅ | Simulator of virtual Slaves and Masters economic | Typescript, React, redux-toolkit, Styled-components, Axios |
 | [VKMiniApp Case Simulator](https://github.com/javeoff/vk-roulette) | ✅ | Cases Simulator with virtual items inside VK Application | Javascript, React, cross-env, eruda |
@@ -66,3 +68,5 @@
 ## Contacts
 [<img align="left" width="22px" alt="javeoff | Telegram" src="https://simpleicons.org/icons/telegram.svg" />](https://t.me/javeoff)
 [<img align="left" width="22px" alt="javeoff | Email" src="https://simpleicons.org/icons/gmail.svg" />](javeoff@yandex.ru)
+
+* no commercial experience
