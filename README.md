@@ -1,9 +1,9 @@
 # ✨ Hello, I am Daniil Jave!
 
 ## Facts
-- I am 18, have been deep learning programming over 3 years
+- I am 18, have been learning programming over 3 years
 - I started interest coding since 13 years old
-- I spend coding 50-60 hours a week
+- I spend coding 40-50 hours a week
 - I learn blockchain and psychology
 - I love Programming and very like growing experience in that.
 
@@ -24,13 +24,13 @@
 
 ## Skills
 - Prefer immutable programming implementation
-- Actively using **ZSH** **NVIM** ([My dotfiles](https://github.com/javeoff/dotfiles))
-- Actively using SOLID, creational patterns
+- Use modern patterns and best practices in production
 - Configuring **Nginx**, **Apache**
-- Configuring **Webpack**, **ESlint**, **Babel**, **Jest**
-- Work with Git (**VCS**) abstractions
-- Work with **Docker**, configuring **Dockerfile**
-- Learn [English B1->B2](https://github.com/javeoff/english-knowledge) (intermediate)
+- CI/CD GitHub/GitLab
+- Linting, E2E + Unit testing
+- Git, Git merge (rebase), cherry-pick, bisect
+- Docker, Docker Compose, Kubernetes
+- English B1
 
 ## Projects
 
